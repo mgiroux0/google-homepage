@@ -1,0 +1,38 @@
+.logo{
+    padding-top: 200px;
+}
+body{
+    
+    display: inline-block;
+    flex-direction: column;
+}
+.bar{
+   border-radius: 10px;
+   width: 150%;
+   height: 130%;
+   opacity: .5;
+   padding-right: 30px;
+   padding-left: 35px;
+   margin: 0 auto;
+   display: inline-block;
+
+}
+.buttons{
+    margin-top: 30px;
+}
+.buttons button:hover {
+    color: #000;
+    border: .5px solid #b3b3b3;
+
+}
+button{
+    padding: 10px 15px;
+    font-weight: bold;
+    margin: 4px;
+    border-style: none;
+    color: #737373;
+    background-color: #f2f2f2;
+    
+    
+    
+}
